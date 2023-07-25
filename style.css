@@ -27,6 +27,8 @@ h1 {
   margin-left: 300px;
   margin-top: 0;
   font-size: 4em;
+  color: white;
+  border: 1px solid black;
 }
 
 h2 {
